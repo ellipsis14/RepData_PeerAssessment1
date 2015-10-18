@@ -1,5 +1,4 @@
 ## ----Loading and preprocessing the data------------------------------------------------------------
-setwd("/home/rahul/RepData_PeerAssessment1")
 unzip(zipfile="activity.zip")
 data <- read.csv("activity.csv")
 
